@@ -51,14 +51,3 @@
 "54000","West Virginia",71348.1,72618.9
 "55000","Wisconsin",299017.1,303183.8
 "56000","Wyoming",36808.8,37014.4
-"91000","New England",976185.4,993019.3
-"92000","Mideast",3296923.4,3353271.3
-"93000","Great Lakes",2482571.9,2521653.9
-"94000","Plains",1202354.9,1220431.7
-"95000","Southeast",4012328.5,4070151.7
-"96000","Southwest",2410457.4,2445985.6
-"97000","Rocky Mountain",696295.5,706893.2
-"98000","Far West",3826171.2,3900662.8
-"Legend / Footnotes:"
-"Real GDP is in millions of chained 2012 dollars. Calculations are performed on unrounded data. Chained (2012) dollar series are calculated as the product of the chain-type quantity index and the 2012 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. For the All industry total and Government and government enterprises, the difference between the United States and sum-of-states reflects overseas activity, economic activity taking place outside the borders of the United States by the military and associated federal civilian support staff."
-"Last updated: October 1, 2021-- new statistics for 2021:Q2; revised statistics for 2005:Q1-2021:Q1."
