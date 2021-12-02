@@ -9,14 +9,14 @@ Connecticut,Fully Legal,Yes,Yes
 Delaware,Mixed,Yes,Yes
 District of Columbia,Fully Legal,Yes,Yes
 Florida,Mixed,Yes,No
-Georgia,Mixed,CBD Oil Only,No
+Georgia,Mixed,No,No
 Hawaii,Mixed,Yes,Yes
 Idaho,Fully Illegal,No,No
 Illinois,Fully Legal,Yes,Yes
-Indiana,Mixed,CBD Oil Only,No
-Iowa,Mixed,CBD Oil Only,No
+Indiana,Mixed,No,No
+Iowa,Mixed,No,No
 Kansas,Fully Illegal,No,No
-Kentucky,Mixed,CBD Oil Only,No
+Kentucky,Mixed,No,No
 Louisiana,Mixed,Yes,Yes
 Maine,Fully Legal,Yes,Yes
 Maryland,Mixed,Yes,Yes
@@ -40,13 +40,13 @@ Oregon,Fully Legal,Yes,Yes
 Pennsylvania,Mixed,Yes,No
 Rhode Island,Mixed,Yes,Yes
 South Carolina,Fully Illegal,No,No
-South Dakota,Mixed*,Yes,No
+South Dakota,Mixed,Yes,No
 Tennessee,Fully Illegal,No,No
-Texas,Mixed,CBD Oil Only,No
+Texas,Mixed,Yes,No
 Utah,Mixed,Yes,No
 Vermont,Fully Legal,Yes,Yes
 Virginia,Fully Legal,Yes,Yes
 Washington,Fully Legal,YesYes,Yes
 West Virginia,Mixed,Yes,No
-Wisconsin,Mixed,CBD Oil Only,No
+Wisconsin,Mixed,No,No
 Wyoming,Fully Illegal,No,No
